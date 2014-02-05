@@ -8,7 +8,7 @@
         "zf2",
         "dti",
 		"test",
-		"PHPUnit",
+		"PHPUnit"
     ],
     "homepage": "https://github.com/ftec-faculdades/DTITest",
     "authors": [
