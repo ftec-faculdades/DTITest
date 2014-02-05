@@ -1,0 +1,25 @@
+{
+    "name": "ftec-faculdades/dti-test",
+    "description": "Modulo responsável para as baterias de testes unitários",
+    "type": "library",
+    "license": "MIT",
+    "keywords": [
+        "module",
+        "zf2",
+        "dti",
+		"test",
+		"PHPUnit",
+    ],
+    "homepage": "https://github.com/ftec-faculdades/DTITest",
+    "authors": [
+        {
+            "name": "Sérgio Ernane Munhós Hermes",
+            "email": "sergiohermes@ftec.com.br"
+        }
+    ],
+    "autoload": {
+        "psr-0": {
+            "DTITest": "src/"
+        }
+    }
+}
